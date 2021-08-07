@@ -1,3 +1,6 @@
+#design a calculator which will correctly solve all problems except following ones: 55+7=72; 66-11=3; 52*7=300; 72/6=121. Your program should take operator and the two numbers as input from the user and then return the result.
+
+
 print("Enter first number")
 a = int(input())
 print("Enter second number")
